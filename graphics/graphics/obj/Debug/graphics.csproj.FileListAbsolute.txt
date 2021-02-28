@@ -1,0 +1,16 @@
+c:\users\makar1.acer-aspire7-a7\documents\visual studio 2013\Projects\graphics\graphics\bin\Debug\graphics.exe.config
+c:\users\makar1.acer-aspire7-a7\documents\visual studio 2013\Projects\graphics\graphics\bin\Debug\graphics.exe
+c:\users\makar1.acer-aspire7-a7\documents\visual studio 2013\Projects\graphics\graphics\bin\Debug\graphics.pdb
+c:\users\makar1.acer-aspire7-a7\documents\visual studio 2013\Projects\graphics\graphics\obj\Debug\graphics.Properties.Resources.resources
+c:\users\makar1.acer-aspire7-a7\documents\visual studio 2013\Projects\graphics\graphics\obj\Debug\graphics.csproj.GenerateResource.Cache
+c:\users\makar1.acer-aspire7-a7\documents\visual studio 2013\Projects\graphics\graphics\obj\Debug\graphics.exe
+c:\users\makar1.acer-aspire7-a7\documents\visual studio 2013\Projects\graphics\graphics\obj\Debug\graphics.pdb
+c:\users\makar1.acer-aspire7-a7\documents\visual studio 2013\Projects\graphics\graphics\obj\Debug\graphics.DDA_LINE.resources
+c:\users\makar1.acer-aspire7-a7\documents\visual studio 2013\Projects\graphics\graphics\obj\Debug\graphics.Bresenham_LINE.resources
+c:\users\makar1.acer-aspire7-a7\documents\visual studio 2013\Projects\graphics\graphics\obj\Debug\graphics.BRESENHAM_CIRCLE.resources
+c:\users\makar1.acer-aspire7-a7\documents\visual studio 2013\Projects\graphics\graphics\obj\Debug\graphics.Midpoint_Circle.resources
+c:\users\makar1.acer-aspire7-a7\documents\visual studio 2013\Projects\graphics\graphics\obj\Debug\graphics.Midpoint_Elipse.resources
+C:\Users\makar1.ACER-ASPIRE7-A7\documents\visual studio 2013\Projects\graphics\graphics\obj\Debug\graphics.Transformation.resources
+C:\Users\makar1.ACER-ASPIRE7-A7\documents\visual studio 2013\Projects\graphics\graphics\obj\Debug\graphics.Line_Clipping.resources
+C:\Users\makar1.ACER-ASPIRE7-A7\Documents\Visual Studio 2013\Projects\graphics\graphics\obj\Debug\graphics.app.resources
+C:\Users\makar1.ACER-ASPIRE7-A7\Documents\Visual Studio 2013\Projects\graphics\graphics\obj\Debug\graphics.csprojResolveAssemblyReference.cache
